@@ -1,0 +1,9 @@
+=encoding utf8
+ 
+=head1 LUGA Perl Workshop 2013
+
+In dem Repository findest du die Sourcen, die beim Linux Infotag in Augsburg
+beim Perl Workshop verwendet werden. Sie sollen dir einen schnellen Start in die
+Programmiersprache Perl ermöglichen und Grundlage für eigene Experimente sein.
+
+Author: Ulrich Habel L<me@rhaen.pm>

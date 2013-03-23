@@ -1,0 +1,19 @@
+#!/usr/bin/env perl
+
+# PODNAME: luga
+# ABSTRACT: Example commandline script for LUGA app
+
+use Luga::App;
+Luga::App->run;
+
+=pod
+
+=head1 SYNOPSIS
+
+    ./luga [-s|-f]
+
+=head1 SEE ALSO
+
+=for :list
+* L<App::Cmd>
+* L<App::Cmd::Simple>

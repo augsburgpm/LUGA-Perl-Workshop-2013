@@ -1,0 +1,7 @@
+#!/usr/bin/env perl
+
+# PODNAME: luga
+# ABSTRACT: Example commandline script for LUGA app (extended)
+
+use Luga::App;
+Luga::App->run;
